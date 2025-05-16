@@ -22,4 +22,4 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 >Diagrama de la base de datos
 
-![Index](EsquemaEjercicio.mwb)
+![Index](https://github.com/LuisMiguelSalcedo/EjercicioBaseDeDatos/blob/main/Diagrama.png)
